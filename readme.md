@@ -52,7 +52,7 @@ Drag  **Topdf** to dock and keep it there.
 
 ## Related
 
-- [dark-mode-switcher](https://github.com/jeongwhanchoi/dark-mode-switcher): Dark mode automator switcher for macOS Mojave, written with apple-script.
+- [todarkmode](https://github.com/abranhe/todarkmode): Dark mode automator switcher for macOS Mojave using Node.js and applescript.
 
 ## Team
 
