@@ -20,7 +20,7 @@
 	<br>
 </div>
 
-This is simple apple-script automator converted into a macOS app which convert documents
+This is simple apple-script automator converted into a macOS app which converts documents
 to pdf.
 
 Requires macOS, sorry windows 🙃.
