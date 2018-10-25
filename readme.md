@@ -27,7 +27,19 @@ Requires macOS, sorry windows 🙃.
 
 ## Download
 
-- [Download](https://github.com/abranhe/topdf/raw/add-zip-app/Topdf.zip) the zipped `.App` file.
+- [Download](https://github.com/abranhe/topdf/raw/master/Topdf.zip) the zipped `.App` file.
+
+You must keep the files.
+
+<img src="https://cdn.abranhe.com/projects/topdf/1.png" width="400px">
+
+Unzip the `Topdf.zip` file and you will have access to the application.
+
+<img src="https://cdn.abranhe.com/projects/topdf/2.png" width="400px">
+
+Drag  **Topdf** to dock and keep it there.
+
+<img src="https://cdn.abranhe.com/projects/topdf/3.png" width="400px">
 
 ## How?
 
