@@ -1,5 +1,12 @@
 <div align="center">
+	<br>
+	<br>
+	<br>
+	<br>
 	<img src="https://cdn.abranhe.com/projects/topdf/topdf.svg" width="256" height="256">
+	<br>
+	<br>
+	<br>
 	<h1>Topdf</h1>
 	<p>
 		<b>Convert documents to pdf on macOS</b>
@@ -18,15 +25,18 @@ to pdf.
 
 Requires macOS, sorry windows 🙃.
 
-
 ## Download
 
-- [Download](topdf.applescript?raw=true) the apple-script.
-- [Download](https://github.com/abranhe/topdf/releases/latest) the `.App` file.
+- [Download](https://github.com/abranhe/topdf/raw/add-zip-app/Topdf.zip) the zipped `.App` file.
 
 ## How?
 
-<img src="https://cdn.abranhe.com/projects/topdf/movie-2.gif">
+<img src="https://cdn.abranhe.com/projects/topdf/movie.gif" alt="Video Example">
+
+## Todo
+
+- Make it a real app :|
+- Add a dialog chooser, to convert files.
 
 ## Related
 
