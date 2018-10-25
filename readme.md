@@ -1,5 +1,9 @@
 <div align="center">
+	<br>
+	<br>
 	<img src="https://cdn.abranhe.com/projects/topdf/topdf.svg" width="256" height="256">
+	<br>
+	<br>
 	<h1>Topdf</h1>
 	<p>
 		<b>Convert documents to pdf on macOS</b>
@@ -26,7 +30,7 @@ Requires macOS, sorry windows 🙃.
 
 ## How?
 
-<img src="https://cdn.abranhe.com/projects/topdf/movie-2.gif">
+![Shot](https://cdn.abranhe.com/projects/topdf/movie-2.min.gif)
 
 ## Related
 
