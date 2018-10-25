@@ -13,20 +13,21 @@
 	<br>
 </div>
 
+<img src="https://cdn.abranhe.com/projects/topdf/movie.gif" width="30%" height="30%" align="right">
+
 This is simple apple-script automator converted into a macOS app which convert documents
 to pdf.
 
 Requires macOS, sorry windows 🙃.
 
-
 ## Download
 
-- [Download](topdf.applescript?raw=true) the apple-script.
-- [Download](https://github.com/abranhe/topdf/releases/latest) the `.App` file.
+- [Download](https://github.com/abranhe/topdf/raw/add-zip-app/Topdf.zip) the zipped `.App` file.
 
-## How?
+## Todo
 
-<img src="https://cdn.abranhe.com/projects/topdf/movie-2.gif">
+- Make it a real app :|
+- Add a dialog chooser, to convert files.
 
 ## Related
 
