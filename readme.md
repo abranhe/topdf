@@ -27,7 +27,7 @@ Requires macOS, sorry windows 🙃.
 
 ## Download
 
-- [Download](https://github.com/abranhe/topdf/raw/master/Topdf.zip) the zipped `.App` file.
+- [Download](https://github.com/abranhe/topdf/releases/download/1.0/Topdf.zip) the zipped `.App` file.
 
 You must keep the files.
 
